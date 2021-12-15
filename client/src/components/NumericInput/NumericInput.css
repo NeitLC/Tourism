@@ -1,0 +1,6 @@
+.numeric-input input {
+    max-width: 61px;
+}
+.padding-sign {
+    padding-top: 10px;
+}
